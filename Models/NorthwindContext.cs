@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace single-page-sivut.Models
+namespace single_page_sivut.Models
 {
     public partial class NorthwindContext : DbContext
     {

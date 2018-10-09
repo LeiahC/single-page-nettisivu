@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace single-page-sivut.Models
+namespace single_page_sivut.Models
 {
     public partial class Customers
     {
